@@ -16,13 +16,13 @@ reservations, pricing, and transaction tracking.
   * Employee and manager workflows
   * Centralized system coordination
 
-TECHNICAL HIGHLIGHTS
+## TECHNICAL HIGHLIGHTS
   * Object-Oriented Design (interfaces, inheritance, polymorphism, aggregation)
   * Clean seperation of responsibilities
   * Use of data structures (linked lists) for transaction tracking
   * Modular and scalable architechure
 
-HOW IT WORKS
+## HOW IT WORKS
 
   Each vehicle in the system is assigned a unique Vehicle Identification Number (VIN), which is used to identify and track vehicles
   across reservations and transactions.
@@ -33,7 +33,7 @@ HOW IT WORKS
   
   All business logic coordinated through a centralized system interface to ensure consistency and accuracy.
 
-WHY THIS PROJECT
+## WHY THIS PROJECT
 
   This project models a real-world business system and demonstrates how object-oriented design can be used to manage complex logic
   in a structured way. I chose this project to practice me strengthn my understanding of OOP and backend system design by modeling 
