@@ -6,7 +6,7 @@ reservations, pricing, and transaction tracking.
 
 ## OVERVIEW
   This project focuses on designing a structured and maintainable backend system using object-oriented design principles. It
-  supports multiple vehicle types and models realistic rental workflows used by employees amd managers.
+  supports multiple vehicle types and models realistic rental workflows used by employees and managers.
 
 ## FEATURES
   * Support for multiple vehicle types (cars, SUVs, minivans)
