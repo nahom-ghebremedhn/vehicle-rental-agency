@@ -27,7 +27,7 @@ reservations, pricing, and transaction tracking.
   Each vehicle in the system is assigned a unique Vehicle Identification Number (VIN), which is used to identify and track vehicles
   across reservations and transactions.
   
-  Employees can create reservations, assign available vehicles using VINs, and calsculate rental costs.
+  Employees can create reservations, assign available vehicles using VINs, and calculate rental costs.
   
   Managers can update rental rates and review transaction history.
   
